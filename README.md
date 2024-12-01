@@ -70,6 +70,9 @@ __Team Insights:__ Top teams often balance offensive and defensive strategies ef
 2. **Interactive Dashboards:**
 - Create visualizations for attribute distributions and trends.
 
+
+
+
 3. **Historical Comparisons:**
 - Extend analysis to include trends over decades.
 
