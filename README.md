@@ -54,7 +54,7 @@ Findings:
 1. Download the dataset and import it into your DBMS.
 2. Use the provided SQL scripts to reproduce the analysis.
 
-#**Key Results**
+## **Key Results**
 __Recruitment:__ Younger players with high potential are favored, with attributes like stamina and passing being critical.
 
 __Attributes:__ High ratings are strongly associated with finishing, vision, and stamina.
@@ -62,7 +62,7 @@ Match Trends: Home teams consistently perform better across leagues.
 
 __Team Insights:__ Top teams often balance offensive and defensive strategies effectively.
 
-Future Enhancements
+## Future Enhancements
 1. **Advanced Analytics:**
 - Build predictive models for recruitment.
 - Use machine learning to analyze team performance patterns.
