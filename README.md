@@ -73,3 +73,5 @@ __Team Insights:__ Top teams often balance offensive and defensive strategies ef
 3. **Historical Comparisons:**
 - Extend analysis to include trends over decades.
 
+
+This README now provides a more polished and structured overview of the project. Let me know if you want to adjust any specific sections further!
